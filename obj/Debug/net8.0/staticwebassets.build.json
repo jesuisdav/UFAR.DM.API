@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "JQ6xkCwDBYqQIk1L4ipTPe1VMNkNESF4rzqCj9eSNLI=",
+  "Source": "UFAR.DM.API",
+  "BasePath": "_content/UFAR.DM.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

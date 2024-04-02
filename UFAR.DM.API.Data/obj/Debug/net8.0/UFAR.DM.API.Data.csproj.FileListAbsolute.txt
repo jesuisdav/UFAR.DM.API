@@ -1,0 +1,15 @@
+C:\Users\servi\Desktop\C#\UFAR.DM.API\UFAR.DM.API.Data\bin\Debug\net8.0\UFAR.DM.API.Data.deps.json
+C:\Users\servi\Desktop\C#\UFAR.DM.API\UFAR.DM.API.Data\bin\Debug\net8.0\UFAR.DM.API.Data.runtimeconfig.json
+C:\Users\servi\Desktop\C#\UFAR.DM.API\UFAR.DM.API.Data\bin\Debug\net8.0\UFAR.DM.API.Data.dll
+C:\Users\servi\Desktop\C#\UFAR.DM.API\UFAR.DM.API.Data\bin\Debug\net8.0\UFAR.DM.API.Data.pdb
+C:\Users\servi\Desktop\C#\UFAR.DM.API\UFAR.DM.API.Data\obj\Debug\net8.0\UFAR.DM.API.Data.csproj.AssemblyReference.cache
+C:\Users\servi\Desktop\C#\UFAR.DM.API\UFAR.DM.API.Data\obj\Debug\net8.0\UFAR.DM.API.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\servi\Desktop\C#\UFAR.DM.API\UFAR.DM.API.Data\obj\Debug\net8.0\UFAR.DM.API.Data.AssemblyInfoInputs.cache
+C:\Users\servi\Desktop\C#\UFAR.DM.API\UFAR.DM.API.Data\obj\Debug\net8.0\UFAR.DM.API.Data.AssemblyInfo.cs
+C:\Users\servi\Desktop\C#\UFAR.DM.API\UFAR.DM.API.Data\obj\Debug\net8.0\UFAR.DM.API.Data.csproj.CoreCompileInputs.cache
+C:\Users\servi\Desktop\C#\UFAR.DM.API\UFAR.DM.API.Data\obj\Debug\net8.0\UFAR.DM.API.Data.dll
+C:\Users\servi\Desktop\C#\UFAR.DM.API\UFAR.DM.API.Data\obj\Debug\net8.0\refint\UFAR.DM.API.Data.dll
+C:\Users\servi\Desktop\C#\UFAR.DM.API\UFAR.DM.API.Data\obj\Debug\net8.0\UFAR.DM.API.Data.pdb
+C:\Users\servi\Desktop\C#\UFAR.DM.API\UFAR.DM.API.Data\obj\Debug\net8.0\UFAR.DM.API.Data.genruntimeconfig.cache
+C:\Users\servi\Desktop\C#\UFAR.DM.API\UFAR.DM.API.Data\obj\Debug\net8.0\ref\UFAR.DM.API.Data.dll
+C:\Users\servi\Desktop\C#\UFAR.DM.API\UFAR.DM.API.Data\obj\Debug\net8.0\UFAR.DM.API.Data.sourcelink.json

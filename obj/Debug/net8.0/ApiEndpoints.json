@@ -1,0 +1,182 @@
+[
+  {
+    "ContainingType": "UFAR.DM.API.Controllers.ExpressionController",
+    "Method": "AddExpression",
+    "RelativePath": "api/Expression/AddExpression",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "expression",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "sectionId",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "UFAR.DM.API.Controllers.ExpressionController",
+    "Method": "DeleteExpression",
+    "RelativePath": "api/Expression/DeleteExpression",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "expressionId",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "UFAR.DM.API.Controllers.SectionController",
+    "Method": "AddSection",
+    "RelativePath": "api/Section/AddSection",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "section",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "UFAR.DM.API.Controllers.SectionController",
+    "Method": "DeleteSection",
+    "RelativePath": "api/Section/DeleteSection",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "sectionId",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "UFAR.DM.API.Controllers.SectionController",
+    "Method": "GetNumberOfExpressions",
+    "RelativePath": "api/Section/GetNumberOfExpressions",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "sectionId",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "UFAR.DM.API.Controllers.SectionController",
+    "Method": "GetNumberOfWords",
+    "RelativePath": "api/Section/GetNumberOfWords",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "sectionId",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "UFAR.DM.API.Controllers.SectionController",
+    "Method": "GetSectionLevel",
+    "RelativePath": "api/Section/GetSectionLevel",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "sectionId",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "UFAR.DM.API.Controllers.SectionController",
+    "Method": "GetSections",
+    "RelativePath": "api/Section/GetSections",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "UFAR.DM.API.Controllers.SectionController",
+    "Method": "MakeQuizz",
+    "RelativePath": "api/Section/MakeQuizz",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "sectionId",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "UFAR.DM.API.Controllers.WordController",
+    "Method": "AddWord",
+    "RelativePath": "api/Word/AddWord",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "word",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "sectionId",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "UFAR.DM.API.Controllers.WordController",
+    "Method": "DeleteWord",
+    "RelativePath": "api/Word/DeleteWord",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "wordId",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
